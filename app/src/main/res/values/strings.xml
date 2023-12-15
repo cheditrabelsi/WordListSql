@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WordListSql</string>
+    <string name="hint_word">Word...</string>
+    <string name="hint_definition">Definition...</string>
+    <string name="button_save">Save</string>
+    <string name="button_new">New</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_search">Search</string>
+    <string name="search_results">Search results.</string>
+    <string name="menu_search">Search...</string>
+    <string name="empty_word_not_saved">Word not saved because it is empty.</string>
+    <string name="no_result">No result.</string>
+</resources>
